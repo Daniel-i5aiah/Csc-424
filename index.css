@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .first{
-    background-color: aqua;
+    background-color: rgb(255, 74, 19);
     height: 650px;
 }
 .nav_section{
@@ -80,7 +80,7 @@ h1{
     justify-content: center;
 }
 .third{
-    background-color: yellow;
+    background-color: rgb(255, 74, 19);
     height: 850px;
 }
 .menu{
@@ -150,7 +150,7 @@ h1{
 }
 .fifth{
     height: 200px;
-    background-color: blue;
+    background-color:rgb(255, 74, 19);
     display: flex;
     align-items: center;
     align-content: center;
@@ -170,7 +170,7 @@ h1{
 }
 .sixth{
     height: 350px;
-    background-color: aquamarine;
+    background-color: rgb(255, 74, 19);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -210,7 +210,7 @@ h1{
     padding-right: 50px;
 }
 .eight{
-    background-color: aqua;
+    background-color: rgb(255, 74, 19);
     height: 50px;
     display: flex;
     align-items: center;
